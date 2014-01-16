@@ -1,5 +1,5 @@
-# FlatTurtle Logo
+# FlatTurtle image repo
 
-All required images and logos. In case you need a higher quality, please get in touch. 
+All rights reserved to FlatTurtle or the respective image owners.
 
-All rights reserved - 2013 FlatTurtle bvba
+2013-2014 - FlatTurtle 
